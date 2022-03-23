@@ -1,4 +1,4 @@
-(defproject org.clojars.ertucetin/tilakone.core "0.0.5-SNAPSHOT"
+(defproject org.clojars.ertucetin/tilakone.core "0.0.5"
   :description "Minimal finite state machine library"
   :url "https://github.com/ertugrulcetin/tilakone"
   :scm {:name "git", :url "https://github.com/ertugrulcetin/tilakone"}
